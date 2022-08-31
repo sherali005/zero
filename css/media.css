@@ -1,0 +1,361 @@
+@media (max-width:1440px) {
+    .container{
+        width: 90%;
+    }
+
+
+}
+@media (max-width:1200px) {
+
+
+
+    .zero-block {
+        margin-left: -177px;
+    }
+    .element.style {
+        width: 85%;
+    }
+    .element.style {
+        width: 77%;
+    }
+    .works-d {
+        width: 77%;
+    }
+}
+@media (max-width:1024px) {
+    .abount h1 {
+        font-size: 27px;
+    }
+
+    .abount-bloc img {
+        width: 90%;
+    }
+    .abount-title p {
+        font-size: 24px;
+        padding: 20px 0;
+    }
+
+    .abount-title h2 {
+        font-size: 23px;
+    }
+    .zero-block h1 {
+        font-size: 28px;
+    }
+    .zero-block {
+        width: 99%;
+    }
+    .zero-block {
+        margin-left: -9px;
+    }
+    .line-bloc2 {
+        margin: 9px 9px;
+    }
+    .works-d {
+        width: 54%;
+    }
+    .reviews-bloc3 {
+        width: 109%;
+    }
+    .reviews-bloc3 {
+        flex-direction: column;
+    }
+
+    .abount-bloc {
+        flex-direction: column;
+    }
+    .reviews-bloc5 {
+
+        margin-left: 195px;
+    }
+}
+@media (max-width:992px) {
+    .works-d img {
+        width: 90%;
+    }
+    .reviews-bloc5 {
+
+        margin-left: 173px;
+    }
+    .line-sh {
+        flex-direction: column;
+    }
+    .work-e {
+        flex-direction: column;
+    }
+}
+@media (max-width:768px) {
+    .header div button {
+        font-size: 10px;
+        padding: 11px 15px;
+    }
+
+    .hero div h1 {
+        font-size: 30px;
+    }
+    .hero div p {
+        font-size: 20px;
+
+    }
+    .hero-title div h2 {
+        font-size: 20px;
+    }
+    .abount h1 {
+        font-size: 11px;
+    }
+    .abount-title h2 {
+        font-size: 14px;
+    }
+    .abount-title p {
+        font-size: 15px;
+    }
+    .abount-bloc img {
+        width: 79%;
+    }
+    .zero-block h1 {
+        font-size: 18px;
+    }
+    .zero-title p {
+        font-size: 12px;
+    }
+    .zero-title {
+        flex-direction: column;
+    }
+    .zero-block h1 {
+        padding: 30px 300px;
+    }
+    .line-bloc2 {
+        width: 480px;
+        height: 73px;
+    }
+    .work-sh h1 {
+        font-size: 26px;
+    }
+    .works-d img {
+        width: 90%;
+    }
+    .reviews-bloc5 {
+        margin-left: 67px;
+    }
+    .reviews-bloc5 h1 {
+        font-size: 20px;
+    }
+    .reviews-bloc5 input {
+        padding: 12px 100px;
+}
+    .reviews-bloc5 button {
+        width: 422px;
+        height: 55px;
+    }
+    .waste-block {
+        flex-direction: column;
+    }
+}
+@media (max-width:576px) {
+    .header div button {
+        display: none;
+    }
+    .header div a {
+        display: none;
+    }
+    .header div img {
+        padding-left: 250px;
+    }
+    .hero div p {
+        font-size: 17px;
+    }
+    .hero div h1 {
+        font-size: 28px;
+    }
+    .zero-block h1 {
+        padding: 23px 200px;
+        font-size: 20px;
+    }
+    .line-hero h1 {
+        font-size: 24px;
+    }
+    .work-r {
+        flex-direction: column;
+    }
+    .works-d {
+        flex-direction: column;
+    }
+    .works-d {
+        padding-left: 44px;
+    }
+    .works-d img{
+        width: 90%;
+    }
+    .works-btn {
+        font-size: 16px;
+        padding: 9px 20px;
+    }
+    .reviews-title {
+        width: 474px;
+        height: 195px;
+    }
+    .reviews-bloc5 {
+        width: 458px;
+        height: 389px;
+    }
+    .reviews-bloc5 h1 {
+        font-size: 18px;
+    }
+    .reviews-bloc5 input {
+        padding: 10px 60px;
+    }
+    .reviews-bloc5 button {
+        width: 348px;
+        height: 48px;
+    }
+}
+@media (max-width:450px) {
+    .hero div h1 {
+        font-size: 23px;
+    }
+
+    .hero-title div h2 {
+        font-size: 16px;
+    }
+
+    .header div img {
+        padding-left: 169px;
+    }
+
+    .header-line {
+        width: 446px;
+    }
+
+    .zero-block {
+        height: 446px;
+    }
+
+    .zero-block h1 {
+        padding: 15px 200px;
+        font-size: 18px;
+    }
+
+    .line-bloc2 {
+        width: 366px;
+        height: 66px;
+    }
+
+    .line-bloc2 h2 {
+        font-size: 14px;
+    }
+
+    .work-sh h1 {
+        font-size: 18px;
+    }
+
+    .work-x {
+        width: 201px;
+        height: 200px;
+        margin-top: 40px;
+    }
+    .reviews-title {
+        width: 412px;
+        height: 173px;
+    }
+    .element.style {
+        font-size: 20px;
+    }
+    .reviews-bloc5 {
+        width: 330px;
+        height: 350px;
+    }
+    .reviews-bloc5 h1 {
+        font-size: 16px;
+    }
+    .reviews-bloc5 input {
+        padding: 7px 10px;
+    }
+    .reviews-bloc5 button {
+        width: 247px;
+        height: 38px;
+    }
+    .reviews-bloc5 {
+        margin-left: 49px;
+    }
+}
+@media (max-width:400px) {
+    .reviews-bloc5 {
+        margin-left: 28px;
+    }
+
+}
+@media (max-width:376px) {
+    .header div img {
+        padding-left: 105px;
+    }
+    .hero div h1 {
+        font-size: 20px;
+    }
+    .hero div p {
+        font-size: 15px;
+    }
+    .hero-title div h2 {
+        font-size: 12px;
+    }
+    .zero-block h1 {
+        padding: 13px 130px;
+        font-size: 18px;
+    }
+    .reviews-title {
+        width: 315px;
+        height: 236px;
+    }
+    .reviews-title img{
+        width: 90%;
+    }
+    .reviews-bloc5 {
+        margin-left: 5px;
+    }
+
+    .zero-block {
+        height: 465px;
+    }
+
+
+}
+@media (max-width:320px) {
+    .hero div h1 {
+        font-size: 16px;
+    }
+    .hero div p {
+        font-size: 12px;
+    }
+    .zero-title p {
+        padding: 2px 5px;
+    }
+    .line-bloc2 {
+        width: 283px;
+        height: 68px;
+    }
+    .work-x {
+        margin-left: 6px;
+    }
+    .reviews-title {
+        width: 249px;
+    }
+    .reviews-bloc5 {
+        margin-left: -28px;
+    }
+    .header div img {
+        padding-left: 49px;
+    }
+    .hero-title {
+        flex-direction: column;
+    }
+    .hero-line {
+        height: 1px;
+        width: 100px;
+        border: 1px solid #00AE84;
+    }
+    .hero-title div h2 {
+        padding: 10px 0;
+    }
+    .element.style {
+        padding: 10px 0;
+    }
+}
+
